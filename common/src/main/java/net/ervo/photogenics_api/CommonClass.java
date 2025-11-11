@@ -1,6 +1,6 @@
-package net.ervo.spiritcam_api;
+package net.ervo.photogenics_api;
 
-import net.ervo.spiritcam_api.platform.Services;
+import net.ervo.photogenics_api.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 
@@ -23,9 +23,9 @@ public class CommonClass {
         // your own abstraction layer. You can learn more about this in our provided services class. In this example
         // we have an interface in the common code and use a loader specific implementation to delegate our call to
         // the platform specific approach.
-        if (Services.PLATFORM.isModLoaded("spiritcam_api")) {
+        if (Services.PLATFORM.isModLoaded("photogenics_api")) {
 
-            Constants.LOG.info("Hello to spiritcam_api");
+            Constants.LOG.info("Hello to photogenics_api");
         }
     }
 }

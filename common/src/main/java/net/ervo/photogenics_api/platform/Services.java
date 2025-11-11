@@ -1,7 +1,7 @@
-package net.ervo.spiritcam_api.platform;
+package net.ervo.photogenics_api.platform;
 
-import net.ervo.spiritcam_api.Constants;
-import net.ervo.spiritcam_api.platform.services.IPlatformHelper;
+import net.ervo.photogenics_api.Constants;
+import net.ervo.photogenics_api.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

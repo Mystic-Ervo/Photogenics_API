@@ -1,4 +1,4 @@
-package net.ervo.spiritcam_api.platform.services;
+package net.ervo.photogenics_api.platform.services;
 
 public interface IPlatformHelper {
 

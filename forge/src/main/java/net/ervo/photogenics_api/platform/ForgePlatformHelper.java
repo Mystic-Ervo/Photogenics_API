@@ -1,6 +1,6 @@
-package net.ervo.spiritcam_api.platform;
+package net.ervo.photogenics_api.platform;
 
-import net.ervo.spiritcam_api.platform.services.IPlatformHelper;
+import net.ervo.photogenics_api.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

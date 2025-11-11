@@ -1,6 +1,6 @@
-package net.ervo.spiritcam_api.mixin;
+package net.ervo.photogenics_api.mixin;
 
-import net.ervo.spiritcam_api.Constants;
+import net.ervo.photogenics_api.Constants;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

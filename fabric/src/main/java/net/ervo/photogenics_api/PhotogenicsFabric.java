@@ -1,8 +1,8 @@
-package net.ervo.spiritcam_api;
+package net.ervo.photogenics_api;
 
 import net.fabricmc.api.ModInitializer;
 
-public class SpiritCamFabric implements ModInitializer {
+public class PhotogenicsFabric implements ModInitializer {
     
     @Override
     public void onInitialize() {
